@@ -15,6 +15,18 @@ body {
   margin-top: 40px;
 }
 
+#headerx {
+  background: #f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
+
+#header {
+
+  padding: 50px 0 30px 0;
+ 
+}
 footer {
   background: url(../img/smartphones.png);
 }
